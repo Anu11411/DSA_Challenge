@@ -16,13 +16,15 @@ Welcome to my GitHub repository! Here, I tackle a variety of problems related to
 
 Every day, I solve at least one problem related to data structures and algorithms. The problems range from beginner to advanced levels, covering a wide array of topics such as:
 
-Arrays and Strings
-Linked Lists
-Stacks and Queues
-Trees and Graphs
-Sorting and Searching
-Dynamic Programming
-Recursion and Backtracking
+Loops,
+Nested Loops,
+Arrays and Strings,
+Linked Lists,
+Stacks and Queues,
+Trees and Graphs,
+Sorting and Searching,
+Dynamic Programming,
+Recursion and Backtracking.
 
 --Structure 🏗️--
 
@@ -41,9 +43,9 @@ Each problem is documented with:
 
 
  Enhance problem-solving skills
-Improve coding proficiency
-Prepare for technical interviews
-Explore and understand different algorithms and data structures
-Feel free to explore the repository, review the solutions, and provide feedback or suggestions. Let's learn and grow together!
+Improve coding proficiency |
+Prepare for technical interviews |
+Explore and understand different algorithms and data structures |
+Feel free to explore the repository, review the solutions, and provide feedback or suggestions. Let's learn and grow together! 
 
 Happy coding! ✨
