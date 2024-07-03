@@ -27,9 +27,11 @@ public class TripletSum {
         {
             for(int z = j+1; z < size ; z++)
             {
-                if(arr[i] + arr[j]+ arr[z] == x)
+                if(arr[i] + arr[j]+ arr[z] == x){
+                     System.out.println(arr[i] +" "+ arr[j] + " "+ arr[z]);
                 count = count + 1;
-            }
+            
+                    }
         }
       }
       System.out.println("Number of triplets :"+ count);
