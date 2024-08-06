@@ -1,4 +1,13 @@
 package Patterns;
+/*
+ouptu should look like this---
+Enter the number of rows :5
+    A
+   ABA
+  ABCAB
+ ABCDABC
+ABCDEABCD
+*/
 import java.util.Scanner;
 public class AlphabetPyramidMast {
     public static void main(String[] args)
